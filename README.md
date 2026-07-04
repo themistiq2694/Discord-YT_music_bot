@@ -1,6 +1,6 @@
 README.md for YT Music Bot
-#YTMusicBot
-#A lightweight, stable, and easy-to-use Discord music bot designed to stream high-quality audio
+# YTMusicBot
+# A lightweight, stable, and easy-to-use Discord music bot designed to stream high-quality audio
 from YouTube Music using discord.js, @discordjs/voice, and yt-dlp. Built for simplicity, reliability,
 and fast playback.
 #Overview
