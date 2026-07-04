@@ -1,6 +1,7 @@
 # Privacy Policy
 
-For Discord YT Music Bot Created by Mihail-Petre Dragutoiu (Mistiq / Mike) GitHub: https://github.com/themistiq2694
+For Discord YT Music Bot Created by Mihail-Petre Dragutoiu (Mistiq / Mike)  
+GitHub: https://github.com/themistiq2694
 
 ## 1. Introduction
 
