@@ -1,14 +1,14 @@
 ## README.md for YT Music Bot 
 
-## YT Music Bot 
+## 1. YT Music Bot - Description
 
 A lightweight, stable, and easy-to-use Discord music bot designed to stream high-quality audio from YouTube Music using discord.js, @discordjs/voice, and yt-dlp. Built for simplicity, reliability, and fast playback. 
 
-## Overview 
+## 2. Overview 
 
 **YT Music Bot** provides seamless music playback from YouTube Music with minimal configuration. It uses a straightforward command system (!play) and requires only essential Discord permissions. Ideal for personal servers, gaming groups, and small communities. 
 
-## Features 
+## 3. Features 
 
 - High-quality audio streaming from YouTube Music 
 
@@ -24,31 +24,31 @@ A lightweight, stable, and easy-to-use Discord music bot designed to stream high
 
 - Works on Windows, Linux, and VPS environments 
 
-## Installation 
+## 4. Installation 
 
-## 1. Clone the repository 
+### A. Clone the repository 
 
 git clone https://github.com/themistiq2694/YT-Music-Bot.git cd YT-Music-Bot 
 
-## 2. Install dependencies 
+### B. Install dependencies 
 
 npm install 
 
-## 3. Add your bot token 
+### C. Add your bot token 
 
 Open index.js and replace: client.login("YOUR_BOT_TOKEN"); 
 
 with your actual token from the Discord Developer Portal.  
 
-## Required Discord Settings 
+## 5. Required Discord Settings 
 
-## OAuth2 Scopes 
+### OAuth2 Scopes 
 
 - bot 
 
 - applications.commands 
 
-## Bot Permissions 
+### Bot Permissions 
 
 - View Channels 
 
@@ -58,7 +58,7 @@ with your actual token from the Discord Developer Portal.
 
 - Speak 
 
-## Privileged Gateway Intents 
+### Privileged Gateway Intents 
 
 Enable these in Developer Portal → Bot: 
 
@@ -66,7 +66,7 @@ Enable these in Developer Portal → Bot:
 
 - Server Members Intent 
 
-## Running the Bot 
+## 6. Running the Bot 
 
 From your bot folder: 
 
@@ -74,9 +74,9 @@ node index.js
 
 Your bot will appear **online** in your Discord server. 
 
-## Commands 
+## 7. Commands 
 
-## !play <url> 
+### !play <url> 
 
 Plays a YouTube Music track or playlist. 
 
@@ -84,7 +84,7 @@ Examples:
 
 !play https://music.youtube.com/watch?v=XXXXXXXX !play https://music.youtube.com/playlist?list=PLXXXXXXXX 
 
-## Project Structure 
+## 8. Project Structure 
 
 YT-Music-Bot/
 
@@ -98,15 +98,16 @@ YT-Music-Bot/
 
 └── node_modules/ # Installed packages 
 
-## Invite Link 
+## 9. Invite Link 
 
 Generate your bot invite link using OAuth2 URL Generator with the scopes and permissions listed above. 
 
-## Terms of Service 
+## 10. Terms of Service 
 
-A Terms of Service page is required for Discord bot listings. You may host it on Google Docs, GitHub Pages, or Pastebin. 
+Read the full Terms of Service here:  
+https://github.com/themistiq2694/YT-Music-Bot/blob/main/TOS.md
 
-## Requirements 
+## 11. Requirements 
 
 - Node.js 18+ 
 
@@ -116,6 +117,6 @@ A Terms of Service page is required for Discord bot listings. You may host it on
 
 - Discord bot token 
 
-## Support 
+## 12.Support 
 
 For issues, questions, or feature requests, open a GitHub issue or contact the developer. **Developer:** Mihail-Petre Dragutoiu (Mistiq / Mike) **GitHub:** https://github.com/themistiq2694 
