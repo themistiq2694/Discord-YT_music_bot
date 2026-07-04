@@ -1,4 +1,4 @@
-## [Copy]README.md for YT Music Bot 
+## README.md for YT Music Bot 
 
 ## YT Music Bot 
 
@@ -38,11 +38,7 @@ npm install
 
 Open index.js and replace: client.login("YOUR_BOT_TOKEN"); 
 
-with your actual token from the Discord Developer Portal. 
-
-1 
-
-Copilot may make mistakes 
+with your actual token from the Discord Developer Portal.  
 
 ## Required Discord Settings 
 
@@ -88,10 +84,6 @@ Examples:
 
 !play https://music.youtube.com/watch?v=XXXXXXXX !play https://music.youtube.com/playlist?list=PLXXXXXXXX 
 
-2 
-
-Copilot may make mistakes 
-
 ## Project Structure 
 
 YT-Music-Bot/ │ ├── index.js # Main bot logic ├── package.json # Dependencies & metadata ├── README.md # Documentation └── node_modules/ # Installed packages 
@@ -117,8 +109,3 @@ A Terms of Service page is required for Discord bot listings. You may host it on
 ## Support 
 
 For issues, questions, or feature requests, open a GitHub issue or contact the developer. **Developer:** Mihail-Petre Dragutoiu (Mistiq / Mike) **GitHub:** https://github.com/themistiq2694 
-
-3 
-
-Copilot may make mistakes 
-
