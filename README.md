@@ -25,8 +25,7 @@ npm install
 Open index.js and replace:
 client.login("YOUR_BOT_TOKEN");
 with your actual token from the Discord Developer Portal.
-1
-Copilot may make mistakes
+
 Required Discord Settings
 OAuth2 Scopes
 ▪ bot
@@ -40,7 +39,7 @@ Privileged Gateway Intents
 Enable these in Developer Portal → Bot:
 ▪ Message Content Intent
 ▪ Server Members Intent
-Runningthe Bot
+Running the Bot
 From your bot folder:
 node index.js
 Your bot will appear online in your Discord server.
@@ -50,8 +49,7 @@ Plays a YouTube Music track or playlist.
 Examples:
 !play https://music.youtube.com/watch?v=XXXXXXXX
 !play https://music.youtube.com/playlist?list=PLXXXXXXXX
-2
-Copilot may make mistakes
+
 Project Structure
 YT-Music-Bot/
 │
@@ -73,5 +71,3 @@ Requirements
 Support
 For issues, questions, or feature requests, open a GitHub issue or contact the developer.
 Developer: Mihail-Petre Dragutoiu (Mistiq / Mike) GitHub: https://github.com/themistiq2694
-3
-Copilot may make mistakes
