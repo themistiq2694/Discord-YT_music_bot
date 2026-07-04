@@ -87,10 +87,15 @@ Examples:
 ## Project Structure 
 
 YT-Music-Bot/
+
 │
+
 ├── index.js # Main bot logic 
+
 ├── package.json # Dependencies & metadata 
+
 ├── README.md # Documentation 
+
 └── node_modules/ # Installed packages 
 
 ## Invite Link 
