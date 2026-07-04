@@ -89,13 +89,13 @@ Examples:
 YT-Music-Bot/
 
 │
-├── LICENSE.md              # MIT License for your project
-├── PrivacyPolicy.md        # Privacy Policy required for Discord verification
-├── README.md               # Main documentation for your bot
-├── TOS.md                  # Terms of Service required for Discord verification
-├── index.js                # Main bot logic (Discord.js + yt-dlp)
-├── package.json            # Project metadata + dependencies list
-├── package-lock.json       # Exact dependency versions for reproducibility
+├── LICENSE.md              # MIT License for your project  
+├── PrivacyPolicy.md        # Privacy Policy required for Discord verification  
+├── README.md               # Main documentation for your bot  
+├── TOS.md                  # Terms of Service required for Discord verification  
+├── index.js                # Main bot logic (Discord.js + yt-dlp)  
+├── package.json            # Project metadata + dependencies list  
+├── package-lock.json       # Exact dependency versions for reproducibility  
 
 ## 9. Invite Link 
 
