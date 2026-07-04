@@ -1,13 +1,13 @@
 README.md for YT Music Bot
-YTMusicBot
-A lightweight, stable, and easy-to-use Discord music bot designed to stream high-quality audio
+#YTMusicBot
+#A lightweight, stable, and easy-to-use Discord music bot designed to stream high-quality audio
 from YouTube Music using discord.js, @discordjs/voice, and yt-dlp. Built for simplicity, reliability,
 and fast playback.
-Overview
-YT Music Bot provides seamless music playback from YouTube Music with minimal
+#Overview
+#YT Music Bot provides seamless music playback from YouTube Music with minimal
 configuration. It uses a straightforward command system (!play) and requires only essential
 Discord permissions. Ideal for personal servers, gaming groups, and small communities.
-Features
+#Features
 ▪ High-quality audio streaming from YouTube Music
 ▪ Simple!play command for songs and playlists
 ▪ Automatic queue handling
@@ -15,7 +15,7 @@ Features
 ▪ Minimal permissions required
 ▪ Beginner-friendly setup
 ▪ Works onWindows,Linux, and VPS environments
-Installation
+#Installation
 1. Clone the repository
 git clone https://github.com/themistiq2694/YT-Music-Bot.git
 cd YT-Music-Bot
