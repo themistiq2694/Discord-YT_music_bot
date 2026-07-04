@@ -88,7 +88,7 @@ Examples:
 
 YT-Music-Bot/
 
-│
+│  
 ├── LICENSE.md              # MIT License for your project  
 ├── PrivacyPolicy.md        # Privacy Policy required for Discord verification  
 ├── README.md               # Main documentation for your bot  
