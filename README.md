@@ -94,8 +94,8 @@ YT-Music-Bot/
 ├── README.md ............... Main documentation for your bot  
 ├── TOS.md ....................... Terms of Service required for Discord verification  
 ├── index.js ......................... Main bot logic (Discord.js + yt-dlp)  
-├── package.json .............. Project metadata + dependencies list  
 ├── package-lock.json .... Exact dependency versions for reproducibility  
+├── package.json .............. Project metadata + dependencies list  
 
 ## 9. Invite Link 
 
