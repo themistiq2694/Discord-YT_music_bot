@@ -25,7 +25,9 @@ This version features the following:
 ✓ Correct thumbnails
 ✓ Metadata caching
 ✓ Better startup stability
-✓ First playlist song occasionally skipped
+
+Known limitation:
+• Large playlists currently load ~100 entries (yt-dlp limitation)
 =========================================================
 to be tested:
 
@@ -38,6 +40,7 @@ Then, in the next session, focus only on fixing the "437 songs → 104 songs" li
 Future updates
 I also have a few ideas for a polished v1.1 roadmap that would make the bot feel much more professional without making the code significantly more complex:
 
+Addressing the yt-dlp limitation
 !np (show current song)
 !shuffle
 !remove <number>
