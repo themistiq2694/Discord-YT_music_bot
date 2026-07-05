@@ -8,6 +8,18 @@ A lightweight, stable, and easy-to-use Discord music bot designed to stream high
 
 **YT Music Bot** provides seamless music playback from YouTube Music with minimal configuration. It uses a straightforward command system (!play) and requires only essential Discord permissions. Ideal for personal servers, gaming groups, and small communities. 
 
+## Roadmap
+
+- !np command
+- !shuffle
+- !remove
+- !clear
+- !loop
+- !volume
+- Queue pagination
+- Resume after reconnect
+- Full playlist extraction (>100 entries)
+
 ## 3. Features 
 
 - High-quality audio streaming from YouTube Music 
@@ -108,7 +120,7 @@ https://github.com/themistiq2694/YT-Music-Bot/blob/main/TOS.md
 
 ## 11. Requirements 
 
-- Node.js 18+ 
+- Node.js 20+ 
 
 - FFmpeg (via ffmpeg-static) 
 
@@ -116,6 +128,12 @@ https://github.com/themistiq2694/YT-Music-Bot/blob/main/TOS.md
 
 - Discord bot token 
 
-## 12.Support 
+## 12. Version Limitations
+
+Large playlists currently return approximately 100 entries due to yt-dlp's flat playlist extraction.
+
+This will be addressed in a future release.
+
+## 13. Support 
 
 For issues, questions, or feature requests, open a GitHub issue or contact the developer. **Developer:** Mihail-Petre Dragutoiu (Mistiq / Mike) **GitHub:** https://github.com/themistiq2694 
